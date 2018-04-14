@@ -1,0 +1,7 @@
+title=OpenJazz
+description=OpenJazz Game
+icon=skin:icons/openjazz.png
+exec=/mnt/int_sd/games/openjazz/run.dge
+clock=600
+volume=1
+wrapper=true
