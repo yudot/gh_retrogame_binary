@@ -1,0 +1,7 @@
+title=OpenTyrian
+description=OpenTyrian Game
+icon=skin:icons/opentyrian.png
+exec=/mnt/int_sd/games/opentyrian/run.dge
+clock=600
+volume=1
+wrapper=true
