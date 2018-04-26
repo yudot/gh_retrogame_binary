@@ -1,0 +1,7 @@
+title=Tile
+description=Tile World Game
+icon=skin:icons/tworld.png
+exec=/mnt/int_sd/games/tileworld/run.dge
+clock=600
+volume=1
+wrapper=true
