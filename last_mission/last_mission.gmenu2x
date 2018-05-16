@@ -1,0 +1,7 @@
+title=Mission
+description=Last Mission Game
+icon=skin:icons/last_mission.png
+exec=/mnt/int_sd/games/last_mission/run.dge
+clock=600
+volume=1
+wrapper=true

@@ -1,0 +1,7 @@
+title=CDOGS
+description=CDOGS Game
+icon=skin:icons/cdogs.png
+exec=/mnt/int_sd/games/cdogs/run.dge
+clock=600
+volume=1
+wrapper=true
